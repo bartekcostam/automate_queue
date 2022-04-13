@@ -2,3 +2,9 @@
 
 
 # Lisat todo:
+
+- wybor stacku technologicznego 
+
+- Biblioteki 
+
+-
